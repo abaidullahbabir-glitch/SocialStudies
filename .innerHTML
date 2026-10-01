@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Social Studies</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="container bg-dark text-center">
+            <h1 class="text-white">Social Studies Project Website Made by M.A.B</h1>
+
+        </div>
+
+        <div class="container">
+            <div class="row my-3">
+                <!-- Seperation -->
+
+                <div class="col-md-12">
+<div class="card border-dark">
+  <div class="card-body text-center">
+    <h5 class="card-title">Calendar: Inuinnait Seasonal calendar</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">Made by Abaidullah no other group member knows HTML</h6>
+    <p class="card-text">The Inuinnait Seasonal Calendar is a <b>Ploychornic Calendar</b> which means it dates are not predetermined and the dates change not only based on the moon cycle but also other natural events such as when some animals emerge, food ripens or when sea ice melts. The Calendar also has 6 seasons which are called winter (ukiuq), early spring (upirngassaq), spring (upirngaq), summer (aujaq), early fall (ukiassaq), and fall (ukiaq)</p>
+  </div>
+</div>
+                </div>
+
+            </div>
+        </div>
+        <!-- Seperation -->
+    </body>
+</html>
